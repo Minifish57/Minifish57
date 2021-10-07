@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Minifish"><img src="https://github.com/minifish57/minifish57/blob/master/devcard.svg" width="400" alt="Anthony Fischer's Dev Card"/></a>
+<a href="https://app.daily.dev/Minifish"><img src="https://github.com/Minifish57/Minifish57/blob/main/devcard.svg" width="400" alt="Anthony Fischer's Dev Card"/></a>
 <!--
 **Minifish57/Minifish57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
