@@ -13,3 +13,6 @@
         </td>
     </tr>
 <table>
+    
+# Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Minifish57&theme=react-dark&hide_border=true)
