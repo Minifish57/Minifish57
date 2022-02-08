@@ -1,16 +1,15 @@
-### Hi there 👋
-<a href="https://app.daily.dev/Minifish"><img src="https://github.com/Minifish57/Minifish57/blob/main/devcard.svg" width="400" alt="Anthony Fischer's Dev Card"/></a>
-<!--
-**Minifish57/Minifish57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Minifish 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+	<tr>
+		<td valign="center">
+    		🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.  
+			🌱 I am currently learning **Java** and also interested in **Web Development**.  
+			🎯 My Goal is to Contribute to as many **open source project** as possible.  
+			✨ I love to create different types of **contents**.  
+		</td>
+		<td>
+			<a href="https://app.daily.dev/Minifish"><img src="https://github.com/Minifish57/Minifish57/blob/main/devcard.svg" width="300" alt="Anthony Fischer's Dev Card"/></a>
+  		</td>
+	</tr>
+</table>
