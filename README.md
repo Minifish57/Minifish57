@@ -9,7 +9,7 @@
             ✨ I love to create different types of contents. <br/>
         </td>
         <td>
-            <a href="https://app.daily.dev/Minifish"><img src="https://github.com/Minifish57/Minifish57/blob/main/devcard.svg" width="300"/></a>
+            <a href="https://app.daily.dev/Minifish"><img src="./devcard.png" width="356" alt="Minifish's Dev Card"/></a>
         </td>
     </tr>
 <table>
